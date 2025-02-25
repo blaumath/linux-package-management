@@ -1,63 +1,16 @@
 📦 Linux Package Management Guide
-
-
-
-
 Este repositório contém um guia prático para gerenciar pacotes em distribuições Linux que utilizam APT (Debian/Ubuntu), DNF (Fedora) e Pacman (Arch Linux).
 
 📌 Tabela Comparativa de Comandos
-
 Aqui está um resumo rápido dos comandos mais comuns para gerenciamento de pacotes:
 
-Ação
-
-APT (Debian/Ubuntu)
-
-DNF (Fedora)
-
-Pacman (Arch)
-
-Buscar pacotes
-
-apt search
-
-dnf search
-
-pacman -Ss
-
-Instalar pacote
-
-apt install
-
-dnf install
-
-pacman -S
-
-Remover pacote
-
-apt remove
-
-dnf remove
-
-pacman -R
-
-Atualizar sistema
-
-apt upgrade
-
-dnf upgrade
-
-pacman -Syu
-
-Limpeza de cache
-
-apt clean
-
-dnf clean all
-
-pacman -Scc
-
-Caso prefira visualizar os comandos de forma individual, confira as seções abaixo:
+🛠️ Ação	🐧 APT (Debian/Ubuntu)	🔵 DNF (Fedora)	🔴 Pacman (Arch)
+🔍 Buscar pacotes	apt search	dnf search	pacman -Ss
+📥 Instalar pacote	apt install	dnf install	pacman -S
+❌ Remover pacote	apt remove	dnf remove	pacman -R
+🔄 Atualizar sistema	apt upgrade	dnf upgrade	pacman -Syu
+🧹 Limpeza de cache	apt clean	dnf clean all	pacman -Scc
+💡 Se preferir visualizar os comandos de forma detalhada, confira as seções abaixo!
 
 🔹 Gerenciamento de Pacotes
 
