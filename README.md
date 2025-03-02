@@ -148,3 +148,23 @@ pacman -Qi nano
 📖 [Yay - AUR Helper](https://github.com/Jguer/yay)  
 
 ---
+
+## 🖼️ Visuals
+
+### Package Management Workflow
+
+![Package Management Workflow](https://example.com/path/to/diagram.png)
+
+### System Update Flowchart
+
+![System Update Flowchart](https://example.com/path/to/flowchart.png)
+
+---
+
+## 🌐 Localization
+
+Este guia está disponível em:
+- [English](README_EN.md)
+- [Português](README.md)
+
+---
