@@ -151,7 +151,7 @@ pacman -Qi nano
 
 
 
----
+
 
 ## 🌐 Localization
 
