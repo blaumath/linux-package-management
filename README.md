@@ -149,15 +149,7 @@ pacman -Qi nano
 
 ---
 
-## 🖼️ Visuals
 
-### Package Management Workflow
-
-![Package Management Workflow](https://example.com/path/to/diagram.png)
-
-### System Update Flowchart
-
-![System Update Flowchart](https://example.com/path/to/flowchart.png)
 
 ---
 
